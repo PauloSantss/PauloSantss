@@ -18,9 +18,9 @@ Tenho interesse em compreender como sistemas e redes funcionam, identificar poss
 Entre os assuntos que pretendo aprofundar estão:
 
 - Segurança de redes e infraestrutura;
-- Segurança de aplicações;
-- Análise de vulnerabilidades;
-- Sistemas operacionais;
+- Segurança  de aplicações;
+- Análise De Vulnerabilidade;
+- Sistema operacionail;
 - Criptografia e proteção de dados;
 - Fundamentos de segurança da informação.
 
